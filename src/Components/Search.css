@@ -1,0 +1,23 @@
+.srch-hldr {
+  position: relative;
+}
+
+.srch-inpt {
+  padding: 10px 15px;
+  border: 0.1px solid #191c1f;
+  box-sizing: border-box;
+  border-radius: 6px;
+  background: transparent;
+}
+
+.srch-icon-hldr {
+    width: 15px;
+    position: absolute;
+    right: 10px;
+    bottom: 20%;
+
+}
+
+.srch-icon {
+  width: 100%;
+}

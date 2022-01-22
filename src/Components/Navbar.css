@@ -1,0 +1,49 @@
+.nav-hdr {
+  width: 100%;
+}
+
+.nav-main {
+  width: 100%;
+  padding: 20px 0px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-logo-hldr {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-icon-hldr {
+  width: 45px;
+}
+.logo-icon {
+  width: 100%;
+}
+
+.logo-name-hldr {
+  padding: 10px;
+}
+
+.logo-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nav-link-hldr {
+  width: 40%;
+}
+.nav-ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+}
+
+.nav-link {
+  font-size: 15px;
+  font-weight: bold;
+}
